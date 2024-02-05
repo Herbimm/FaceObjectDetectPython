@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="058531b4-b4ff-4964-a8fa-9698b9920970" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Curso Dlib.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delirium/delirium1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delirium/delirium2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delirium/delirium3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delirium/delirium4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delirium/delirium5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delirium/delirium6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delirium/treinamento1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delirium/treinamento2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delirium/treinamento3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delirium/treinamento4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deteccao_face_haar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deteccao_face_hog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deteccao_face_hog2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos/grupo.0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos/grupo.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos/grupo.2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos/grupo.3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos/grupo.4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos/grupo.5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos/grupo.6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos/grupo.7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos/treinamento/nancy.1.0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos/treinamento/nancy.1.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos/treinamento/nancy.1.2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos/treinamento/ronald.0.0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos/treinamento/ronald.0.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos/treinamento/ronald.0.2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos/treinamento/ronald.0.3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos/treinamento/ronald.0.4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/descritores_rn.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/descritores_yale.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/deteccao_face_hog2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/detector_delirium.svm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/detector_relogios.svm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/detector_relogios_pontos.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/dlib_face_recognition_resnet_model_v1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/haarcascade_frontalface_default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/indices_rn.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/indices_yales.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/mmod_human_face_detector.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/shape_predictor_5_face_landmarks.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/shape_predictor_68_face_landmarks.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/teste_relogios.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/teste_relogios_pontos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/treinamento_delirium.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/treinamento_relogios.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/treinamento_relogios_pontos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2bpEMQPVwbuZiZS5UD2o1RcO0B6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.deteccao_face_haar.executor": "Run",
+    "Python.deteccao_face_hog.executor": "Run",
+    "Python.deteccao_face_hog2.executor": "Run",
+    "Python.teste.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/hscar/PycharmProjects/Curso Dlib"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hscar\PycharmProjects\Curso Dlib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.deteccao_face_hog2">
+    <configuration name="deteccao_face_haar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso Dlib" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deteccao_face_haar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="deteccao_face_hog" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso Dlib" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deteccao_face_hog.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="deteccao_face_hog2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso Dlib" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deteccao_face_hog2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso Dlib" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.deteccao_face_hog2" />
+        <item itemvalue="Python.deteccao_face_hog" />
+        <item itemvalue="Python.deteccao_face_haar" />
+        <item itemvalue="Python.teste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="058531b4-b4ff-4964-a8fa-9698b9920970" name="Changes" comment="" />
+      <created>1706903571797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706903571797</updated>
+    </task>
+    <servers />
+  </component>
+</project>
